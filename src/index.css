@@ -34,11 +34,15 @@ body {
   border-radius: 15px;
   font-family: 'Ruluko', sans-serif;
   font-size: 50px;
-  margin: 5px;
+  margin: 10px 5px;
   padding: 25px 0px;
 }
 
 .zero {
   background-color: #F52F4F;
   color: #FFFFFF;
+}
+
+.inputfield {
+  width: 150px;
 }
